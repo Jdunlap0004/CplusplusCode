@@ -1,5 +1,0 @@
-Jack Dunlap 934508933
-Instructions: print make and test_program to the terminal. The test.cpp
-file will run the program itself and make sure it works.
-Limitations: It lacks error handling such as if the stairs were negative or
-another variable type.
